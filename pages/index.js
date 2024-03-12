@@ -23,6 +23,10 @@ export default function Home({ blogs, topics }) {
         <title>Audichya-Blog </title>
         <meta name="title" content="Audichya-Blog" />
         <meta
+          name="google-site-verification"
+          content="UvaFdS-5-z-x3scEpL_3rfgQIItHlZC_U7KP-vDRwcM"
+        />
+        <meta
           name="description"
           content="Tech blogs and articles on various topics related to Software Development"
         />
